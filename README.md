@@ -4,4 +4,3 @@ Used to create User and do modifications in user name roles and assign different
 master branch is protected now for the approvals
 
 next commit to check only approver will have merge rights or everyone have
-try again
